@@ -37,7 +37,7 @@ cout << "Zeynep";
 break;
 
 default:
-    cout << "Barış";
+    cout << "Baris";
 }
 return 0;
 }
